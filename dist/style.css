@@ -35,14 +35,14 @@ h1 {
   background-color: #fafafa;
 }
 
-table {
+.offer-contents table {
   width: 100%;
   background-color: #ffffff;
   border-spacing: 0;
 }
 
 <!--Header Cell-->
-th {                      
+.offer-contents th {                      
   font-size: 12px;
   font-weight: bold;
   color: #777777;
@@ -53,7 +53,7 @@ th {
 }
 
 <!--Data Cell-->
-td {
+.offer-contents td {
   font-weight: lighter;
   color: #444444;
   padding: 20px 10px;
