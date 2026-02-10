@@ -41,7 +41,6 @@ h1 {
   border-spacing: 0;
 }
 
-<!--Header Cell-->
 .offer-contents th {                      
   font-size: 12px;
   font-weight: bold;
@@ -52,7 +51,6 @@ h1 {
   border-bottom: 1px solid #f1f1f1;
 }
 
-<!--Data Cell-->
 .offer-contents td {
   font-weight: lighter;
   color: #444444;
